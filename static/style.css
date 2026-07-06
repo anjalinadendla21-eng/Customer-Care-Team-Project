@@ -1,0 +1,31 @@
+body{
+    background:#f5f7fb;
+    font-family:Arial, sans-serif;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+    box-shadow:0 4px 10px rgba(0,0,0,.1);
+}
+
+h2{
+    font-weight:bold;
+}
+
+table{
+    background:white;
+}
+
+.btn{
+    border-radius:8px;
+}
+
+.form-control,
+.form-select{
+    border-radius:8px;
+}
+
+.container{
+    margin-top:30px;
+}
